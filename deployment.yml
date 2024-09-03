@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: kavi1122/nodeapp:latest
+        image: kavi1122/my-node-app
         ports:
         - containerPort: 3000
         
